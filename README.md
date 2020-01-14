@@ -8,7 +8,7 @@ Gtk 2.0
 
 C compiler
 
-Installation:
+Install and run:
 
 make
 
